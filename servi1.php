@@ -4,7 +4,9 @@ header('Content-Type: text/html; charset=ISO-8859-1');
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
+    <!--<meta charset="UTF-8">-->
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <meta name="description" content="">
     <meta name="description" content="">
     <meta name="keywords" content="HTML,CSS,JavaScript,PHP">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
